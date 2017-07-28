@@ -16,7 +16,7 @@ export default class Index extends React.Component {
           ]}
         />
         <h1>
-          Hello World!
+          Hello World! This is my first Gatsby page
         </h1>
         <p>Welcome to your new clean Gatsby site</p>
       </div>
